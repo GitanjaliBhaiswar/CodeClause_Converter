@@ -1,4 +1,3 @@
-# js-conversion-tool
-## A unit conversion tool built with JavaScript and Bootstrap.
+# unit-conversion-tool
+## A unit conversion tool built with JavaScript .
 
-See this code live in your browser [here](https://smissaertj.github.io/js-conversion-tool/).
